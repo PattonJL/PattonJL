@@ -27,6 +27,6 @@ from scipy.stats import pearsonr
 data = pd.read_csv('user_behavior_dataset.csv')
 
 # Display the first few rows
-data.head()
+print(data.head())
 ```
 
