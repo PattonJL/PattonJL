@@ -1,16 +1,17 @@
-## Hi there 👋
+# User Behavior Analysis Project
 
-<!--
-**PattonJL/PattonJL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+This project aims to analyze user behavior data to uncover insights related to screen time, app usage, and battery drain. The analysis focuses on various demographics and operating systems to provide a comprehensive overview of user engagement.
 
-Here are some ideas to get you started:
+## Table of Contents
+1. [Import Libraries and Load the Dataset](#import-libraries-and-load-the-dataset)
+2. [Data Cleaning and Exploration](#data-cleaning-and-exploration)
+3. [Answering Key Questions with Visualizations](#answering-key-questions-with-visualizations)
+   - [3.1 What Age and Gender Use the Most Screen Time?](#31-what-age-and-gender-use-the-most-screen-time)
+   - [3.2 Which Operating System Has the Most App Usage Time and Screen On Time?](#32-which-operating-system-has-the-most-app-usage-time-and-screen-on-time)
+   - [3.3 Find the Correlation Between Screen On Time and Battery Drain](#33-find-the-correlation-between-screen-on-time-and-battery-drain)
+4. [Save Cleaned Data for Tableau Visualization](#save-cleaned-data-for-tableau-visualization)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Step 1: Import Libraries and Load the Dataset
+In this step, we import the necessary libraries and load the user behavior dataset.
+
