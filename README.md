@@ -15,6 +15,7 @@ This project aims to analyze user behavior data to uncover insights related to s
 ## Step 1: Import Libraries and Load the Dataset
 In this step, we import the necessary libraries and load the user behavior dataset.
 
+```python
 # Import necessary libraries
 import pandas as pd
 import numpy as np
