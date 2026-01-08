@@ -1,5 +1,25 @@
-I was born and raised in Detroit, Michigan, but have lived in several places across the country including Chattanooga, TN, and Dallas, TX. I've spent over 15 years in sales and the service industry (SI), so I know how the work well with people, but my true passion is in technology. Whether it's hardware or software, I'm fascinated about it and want to learn and grow as much as possible.
+## Hi, I'm Justin
 
-Currently, I've just finished my Google Cybersecurity Professional Certificate provided by Google. I currently have the Data Analytics Certificate provided by Google and the Data Analytics Certificate by IBM. I'm currently studying more about cybersecurity at the moment and trying to strengthen my portfolio. Soon, I'm going to shoot my shot at the CompTIA Security +. I have to say, it's one of the best decisions I've ever made. So far, I've learned Linux, Python, R, SQL, and so much more. And, in the meantime, I continue to tend bar and submit career applications in hopes that an organization sees my potential and dedication.
+I'm transitioning into cybersecurity after building a foundation in IT, data, and customer-facing roles. I recently earned my CompTIA Security+ certification and now focus on blue team and SOC-style security work, especially log analysis and detection engineering.
 
-I can't wait to get the opportunity to work in the field of technology and learn as much as I possibly can, but I know it's only the first step of many. I look forward to obtaining more knowledge and certificates to assist me on my technological journey.
+I enjoy breaking down how attacks show up in telemetry and building detections that actually make sense to analysts.
+
+### What I'm working on
+- Building and tuning detections in Splunk  
+- Analyzing Windows Security Events for suspicious behavior  
+- Practicing SOC workflows like triage, investigation, and reporting  
+
+### Tools & Skills
+- Splunk, Windows Event Logs, PowerShell, Python  
+- VirtualBox, GitHub, Linux  
+- CompTIA Security+, Google Cybersecurity Certificate  
+
+### Goal
+Join a SOC or security operations team as a junior analyst and continue learning through real incidents, real telemetry, and real collaboration.
+
+---
+
+**Connect with me:**  
+- [LinkedIn](https://www.linkedin.com/in/pattonjl/)  
+
+Feel free to check out my pinned repositories below 👇
