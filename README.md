@@ -22,6 +22,7 @@ I enjoy breaking down how attacks show up in telemetry and building detections t
 
 ## Goal
 Currently building hands-on experience in IT support and security operations at an MSP, with a long-term goal of transitioning into a SOC Analyst role focused on detection and incident response.
+
 ---
 
 **Connect with me on:**  
