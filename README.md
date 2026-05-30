@@ -11,7 +11,7 @@ I enjoy breaking down how attacks show up in telemetry and building detections t
 - **[Windows Security Event Analysis](https://github.com/PattonJL/windows-security-event-analysis)** — Authentication event analysis and brute-force detection  
 
 ## What I'm working on
-- Starting as an Technical Support Specialist at an MSP (June 2026)
+- Starting as an IT Support Specialist at an MSP (June 2026)
 - Building Python security automation tools for real-world detection
 - Working toward CySA+ and long-term SOC Analyst transition
 
