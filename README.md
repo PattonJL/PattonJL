@@ -11,9 +11,9 @@ I enjoy breaking down how attacks show up in telemetry and building detections t
 - **[Windows Security Event Analysis](https://github.com/PattonJL/windows-security-event-analysis)** — Authentication event analysis and brute-force detection  
 
 ## What I'm working on
-- Building and tuning detections in Splunk
-- Analyzing Windows Security Events for suspicious behavior
-- Practicing SOC workflows like triage, investigation, and reporting
+- Starting as an Technical Support Specialist at an MSP (June 2026)
+- Building Python security automation tools for real-world detection
+- Working toward CySA+ and long-term SOC Analyst transition
 
 ## Tools & Skills
 - Splunk, Windows Event Logs, PowerShell, Python
@@ -21,8 +21,7 @@ I enjoy breaking down how attacks show up in telemetry and building detections t
 - CompTIA Security+, Google Cybersecurity Certificate
 
 ## Goal
-Join a SOC or security operations team as a junior analyst and contribute to detection, investigation, and incident response while continuing to grow.
-
+Currently building hands-on experience in IT support and security operations at an MSP, with a long-term goal of transitioning into a SOC Analyst role focused on detection and incident response.
 ---
 
 **Connect with me on:**  
